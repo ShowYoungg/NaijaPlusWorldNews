@@ -1,49 +1,28 @@
-# NaijaPlusWorldNews
-## Baking App
-Baking App is the fourth project of Udacity [Android Developer Nanodegree Program](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801).
+## NaijaPlusWorldNews
+Naija Plus World News is an app that features many of the popular Nigerian newspapers and World news sources like BBC, CNN among others.
+Users can read all their desired newspaper in one app without a need to remember news providers' web addresses.
+
 
 ## Screenshots
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC1.PNG)
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC2.PNG)
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC3.PNG)
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC5.PNG)
+
 ## Used Libraries
-* [Retrofit 2](https://github.com/square/retrofit) and 
-*[Gson converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson)
-* [Gson](https://github.com/google/gson)
-* [ExoPlayer](https://github.com/google/ExoPlayer)
+* Picasso is used in this project to render and cache images.
+* WebView as part of Android Support Libraries is used among many others.
+* Google Admob (Banner Ads and Interstitial Ads) is employed in this project.
+
 
 ## Project Overview
-I did productionize an app, taking it from a no state to a production-ready state. This involves finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
+I did productionize this app, taking it from a no state to a production-ready state. This involves finding and handling error cases, adding accessibility features, allowing for localization, and adding a library.
+Naija Plus World News is an app that features many of the popular Nigerian newspapers and World news sources like BBC, CNN among others.
+Users can read all their desired newspaper in one app without a need to remember news providers' web addresses.
 
 ## Why this Project?
-As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
+As a working Android developer, I often have to create and implement apps where I am responsible for designing and planning the steps needed to take to create a production-ready app.
 
-## What I Learned
-In this project I did:
-* Use RecyclerView inside a RecyclerView
-* Use MediaPlayer/Exoplayer to display videos.
-* Handle error cases in Android.
-* Add a widget to the app experience.
-* Leverage a third-party library in the app.
-* Use Fragments to create a responsive design that works on phones and tablets.
-
-## Rubric
-
-### General App Usage
-- [x] App should display recipes from provided network resource.
-- [x] App should allow navigation between individual recipes and recipe steps.
-- [x] App uses RecyclerView and can handle recipe steps that include videos or images.
-- [x] App conforms to common standards found in the Android Nanodegree General Project Guidelines.
-
-### Components and Libraries
-- [x] Application uses Master Detail Flow to display recipe steps and navigation between them.
-- [x] Application uses Exoplayer to display videos.
-- [x] Application properly initializes and releases video assets when appropriate.
-- [x] Application should properly retrieve media assets from the provided network links. It should properly handle network requests.
-- [x] Application makes use of Espresso to test aspects of the UI.
-- [x] Application sensibly utilizes a third-party library to enhance the app's features. That could be helper library to interface with Content Providers if you choose to store the recipes, a UI binding library to avoid writing findViewById a bunch of times, or something similar.
-
-### Homescreen Widget
-- [x] Application has a companion homescreen widget.
-- [x] Widget displays ingredient list for desired recipe.
+##Play Store Address
+* [Naija Plus World News](https://play.google.com/store/apps/details?id=com.soyinka.soyombo.naijaplusworldnews)
+https://play.google.com/store/apps/details?id=com.soyinka.soyombo.naijaplusworldnews

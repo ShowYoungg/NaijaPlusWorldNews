@@ -1,4 +1,4 @@
-## NaijaPlusWorldNews
+## Naija Plus World News
 Naija Plus World News is an app that features many of the popular Nigerian newspapers and World news sources like BBC, CNN among others.
 Users can read all their desired newspaper in one app without a need to remember news providers' web addresses.
 

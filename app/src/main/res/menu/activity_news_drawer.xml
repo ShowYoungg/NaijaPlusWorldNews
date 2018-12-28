@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/naija"
+        android:title="Naija News" />
+
+    <item
+        android:title="News From Around The World">
+        <menu>
+            <item
+                android:id="@+id/world"
+                android:title="World"/>
+            <item
+                android:id="@+id/bbc"
+                android:title="BBC" />
+            <item
+                android:id="@+id/cnn"
+                android:title="CNN" />
+            <item
+                android:id="@+id/abc"
+                android:title="ABC" />
+            <item
+                android:id="@+id/presstv"
+                android:title="PressTV" />
+
+            <item
+                android:id="@+id/aljazeera"
+                android:title="Aljazeera" />
+            <item
+                android:id="@+id/southchina"
+                android:title="South China" />
+        </menu>
+    </item>
+
+</menu>

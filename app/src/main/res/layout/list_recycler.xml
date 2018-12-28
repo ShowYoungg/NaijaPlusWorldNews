@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/world3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="250dp">
+
+    <ImageView
+        android:id="@+id/web_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="500dp"
+        android:layout_margin="8dp"
+        android:src="@drawable/newtelegraph"
+        android:scaleType="fitXY"
+        android:scrollbars="none"/>
+
+    <TextView
+        android:id="@+id/news_provider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Punch"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginLeft="8dp"/>
+
+</LinearLayout>

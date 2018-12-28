@@ -3,10 +3,10 @@
 Baking App is the fourth project of Udacity [Android Developer Nanodegree Program](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801).
 
 ## Screenshots
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/IMC1.png)
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/IMC2.png)
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/IMC3.png)
-![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/IMC4.png)![Screen](https://github.com/ShowYoungg/Baking_App/blob/master/IMC5.png)
+![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC1.png)
+![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC2.png)
+![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC3.png)
+![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC4.png)![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC5.png)
 ## Used Libraries
 * [Retrofit 2](https://github.com/square/retrofit) and 
 *[Gson converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson)

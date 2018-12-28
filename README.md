@@ -7,6 +7,7 @@ Users can read all their desired newspaper in one app without a need to remember
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC1.PNG)
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC2.PNG)
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC3.PNG)
+![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC7.PNG)
 ![Screen](https://github.com/ShowYoungg/NaijaPlusWorldNews/blob/master/IMC5.PNG)
 
 ## Used Libraries

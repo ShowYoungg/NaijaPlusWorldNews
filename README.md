@@ -24,6 +24,6 @@ Users can read all their desired newspaper in one app without a need to remember
 ## Why this Project?
 As a working Android developer, I often have to create and implement apps where I am responsible for designing and planning the steps needed to take to create a production-ready app.
 
-##Play Store Address
+## Play Store Address
 * [Naija Plus World News](https://play.google.com/store/apps/details?id=com.soyinka.soyombo.naijaplusworldnews)
 https://play.google.com/store/apps/details?id=com.soyinka.soyombo.naijaplusworldnews

@@ -15,7 +15,6 @@ Users can read all their desired newspaper in one app without a need to remember
 * WebView as part of Android Support Libraries is used among many others.
 * Google Admob (Banner Ads and Interstitial Ads) is employed in this project.
 
-
 ## Project Overview
 I did productionize this app, taking it from a no state to a production-ready state. This involves finding and handling error cases, adding accessibility features, allowing for localization, and adding a library.
 Naija Plus World News is an app that features many of the popular Nigerian newspapers and World news sources like BBC, CNN among others.
